@@ -1,0 +1,29 @@
+/* path should be set to assets in main domain folder */
+@import url('https://released.info/assets/css/technology.css');
+
+/* TOP SECTION BACKGROUND COLOR */
+.released-info {
+  background-color: #102542;
+}
+.odometer.odometer-auto-theme .odometer-digit,
+.odometer.odometer-theme-train-station .odometer-digit {
+  color: #102542;
+}
+
+/* TOP SECTION FONT COLOR */
+.released-info,
+.released-info a {
+  color: #f2f2f2 !important;
+}
+
+/* BOTTOM SECTION BACKGROUND */
+.posts-section,
+.btn-primary {
+  background-color: #f2f2f2 !important;
+}
+
+/* BOTTOM SECTION FONT COLOR */
+.posts-section,
+.btn-primary {
+  color: #000 !important;
+}
